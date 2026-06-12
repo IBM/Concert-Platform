@@ -8,4 +8,4 @@ Concert platform also coordinates execution. It orchestrates workflows across yo
 
 You can use Concert platform to detect and resolve incidents, optimize resource use and cost, manage vulnerabilities, and maintain service resilience.
 
-For more information, see the IBM Concert platform documentation.
+For more information, see the [IBM Concert platform documentation](https://www.ibm.com/docs/concert-platform).
